@@ -1,3 +1,5 @@
 # Gapminder Data Visualization App
 
-This app visualizes data from the Gapminder Dataset based on the Plotly Dash tutorial.
+Visualizes gapminder Data based on: [Plotly Dash Tutorial](https://dash.plotly.com/tutorial)
+
+App deployed on [Render](https://gapminder-app-045h.onrender.com/)
